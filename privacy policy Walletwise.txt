@@ -1,0 +1,33 @@
+Privacy Policy for Walletwise App
+
+Effective Date: [Date]
+
+This Privacy Policy explains how Walletwise ("we," "us," or "our") manages information in our Flutter money management app, Walletwise ("the App"). Please carefully review this Privacy Policy before using the App.
+
+Information We Collect
+
+Walletwise does not collect or store any personal information, financial data, or personally identifiable information (PII). The App does not access your device's internet connection or external servers.
+
+How We Use Information
+
+As Walletwise does not collect personal information or connect to the internet, we do not use your data for any purpose.
+
+Data Security
+
+We implement reasonable measures to protect the App and any data it may contain. However, since we do not collect or store personal data, the risk associated with data breaches is minimal.
+
+Third-Party Services
+
+Walletwise does not integrate with or use any third-party services, and it does not share any information with third parties.
+
+Children's Privacy
+
+Walletwise is not intended for children under the age of 13, and we do not knowingly collect information from children.
+
+Changes to This Privacy Policy
+
+This Privacy Policy may be updated periodically to reflect changes in our practices or for other operational, legal, or regulatory reasons. The date at the beginning of this Privacy Policy will be updated to indicate the last revision date. Your continued use of the App after the revised Privacy Policy has been posted signifies your acceptance of the changes.
+
+Contact Us
+
+If you have any questions or concerns regarding this Privacy Policy or Walletwise, please contact us at [Your Contact Information].
